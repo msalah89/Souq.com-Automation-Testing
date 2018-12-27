@@ -1,5 +1,5 @@
-# NopCommerce Automation Testing
-"# NopCommerce-Automation-Testing" 
+# Souq.com Automation Testing
+"# Souq.com-Automation-Testing" 
 
 
 Tools to run test cases 
